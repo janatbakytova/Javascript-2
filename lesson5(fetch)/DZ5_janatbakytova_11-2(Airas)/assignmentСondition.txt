@@ -1,0 +1,10 @@
+Cтрим:
+https://youtu.be/v_O-wo_OfiI
+
+#HW:
+Доработать то что мы сделали на уроке (get, post)
+
+надо добавить кнопку delete для каждого продукта
+при нажатии нужно отправить запрос (method: ‘DELETE’) на бэк по ендпоинту “/products/<PRODUCT_ID>” (PRODUCT_ID - id продукта)
+
+Deadline: 26.03.2022 20:00

@@ -1,0 +1,13 @@
+{
+    "user": {
+        "name": "Janat",
+        "age": 22,
+        "position": "Frontend developer"
+    },
+    "skills": [
+        "react",
+        "js",
+        "html",
+        "css"
+    ]
+}
